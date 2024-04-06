@@ -8,6 +8,8 @@ IoT wearable device made using Arduino and sensors along with complete hospital 
 
 <p align="center">
  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" height="50" style="vertical-align:top; margin:4px"></a>
+  <a href="https://www.w3schools.com/html/"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5" height="50" style="vertical-align:top; margin:4px"></a>
+  <a href="https://www.w3schools.com/css/"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css" height="50" style="vertical-align:top; margin:4px"></a>
  <a href="https://www.djangoproject.com/"> <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" height="50" style="vertical-align:top; margin:4px"></a>
   <a href="https://firebase.google.com/"> <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase" height="50" style="vertical-align:top; margin:4px"></a>
   <a href="https://www.arduino.cc/"> <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" height="50" style="vertical-align:top; margin:4px"></a>
