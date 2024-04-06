@@ -40,7 +40,7 @@ The List of hardware used in the project :
 </p>
 
 ## Request :
-To get access to the final Capstone paper with complete vedio and poster implementation, drop a request for [g-drive access](https://drive.google.com/drive/folders/1FoGCUKgEGpYaWVIEXGCDbDORS8W-ljC0).
+To get access to the final Capstone paper with complete Video, Poster and Documnet for the final submittion implementation, drop a request for [g-drive access](https://drive.google.com/drive/folders/1FoGCUKgEGpYaWVIEXGCDbDORS8W-ljC0).
 
 ## How to run :
 > [!NOTE]
