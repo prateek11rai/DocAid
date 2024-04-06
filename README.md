@@ -37,4 +37,18 @@ The List of hardware used in the project :
   <a ><img src="https://github.com/prateek11rai/DocAid/blob/main/patient_2.png" alt="Patient Dashboard" height="500" style="vertical-align:top; margin:4px"></a>
 </p>
 
-<br/>
+## Request :
+To get access to the final Capstone paper with complete vedio and poster implementation, drop a request for [g-drive access](https://drive.google.com/drive/folders/1FoGCUKgEGpYaWVIEXGCDbDORS8W-ljC0).
+
+## How to run :
+> [!NOTE]
+Access to run the implementation is locked as the project was submitted to the institute.
+
+> requirements_1.txt is for the healthdash django project
+
+
+> requirements_2.txt is for the relatime django project which implemets the graphs of the UI
+
+
+> Custom_scripts.py is used to establish the link between the two projects
+
